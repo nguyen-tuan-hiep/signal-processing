@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from matplotlib import collections as matcoll
 import numpy as np
 
 
